@@ -6,7 +6,7 @@
       "properties": {
         "id": 1,
         "nama": "Logger A",
-        "A": [
+    
           {
             "date": "Date",
             "var_A": "34[0] m3/s"
@@ -6111,7 +6111,7 @@
             "date": "2024/02/16 06:00:00",
             "var_A": "0.005944"
           }
-        ]
+        
       },
       "geometry": {
         "coordinates": [
