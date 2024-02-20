@@ -6,11 +6,9 @@
       "properties": {
         "id": 1,
         "nama": "Logger A",
-      
-            "date": "2024/02/16 06:00:00",
-            "var_A": "0.005944"
-          
-        
+        "date": "2024/02/16 06:00:00",
+        "var_A": "0.005944"
+        "text":"text inside"
       },
       "geometry": {
         "coordinates": [
