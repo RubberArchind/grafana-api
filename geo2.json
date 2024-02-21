@@ -6,6 +6,7 @@
       "properties": {
         "id": 1,
         "nama": "Logger A"
+        "text": "10"
       },
       "geometry": {
         "coordinates": [
