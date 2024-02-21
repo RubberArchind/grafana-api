@@ -4,7 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "nama": "Logger A",
+        "id": 1,
+        "nama": "Logger A"
       },
       "geometry": {
         "coordinates": [
@@ -17,6 +18,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 2,
         "nama": "Logger B"
       },
       "geometry": {
@@ -30,6 +32,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 3,
         "nama": "Logger C"
       },
       "geometry": {
@@ -43,6 +46,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 4,
         "nama": "Logger D"
       },
       "geometry": {
@@ -56,6 +60,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 5,
         "nama": "Logger E"
       },
       "geometry": {
@@ -69,6 +74,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 6,
         "nama": "Logger F"
       },
       "geometry": {
@@ -82,6 +88,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 7,
         "nama": "Logger G"
       },
       "geometry": {
