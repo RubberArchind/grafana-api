@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "id": 1,
-        "nama": "Logger A"
+        "nama": "Logger A",
         "text": "10"
       },
       "geometry": {
